@@ -1,0 +1,140 @@
+>>>>  Training Tiny  <<<<
+step 8400 (epoch 4) | train loss 1.6295 ppl 5.11 | val loss 1.7433 ppl 5.72
+=== Tiny  TEST  loss=1.9339  ppl=6.92 ===
+
+--- Tiny sample 1 ---
+To be or not to bed
+Our sofnied, 'tway ondute, distrike,
+Servection! Yet me, and by lappyies.
+
+KING RICHARD III:
+Me than you, advice follower: Eywith,
+As think mean the regive greater:
+What the tell die twife:
+Whose cansely marrit, woes thee how day,
+What let hands that well Boventrarenciousest: I there brother well 
+
+--- Tiny sample 2 ---
+To be or not to be thou tear.
+
+ESCALUS:
+And Rpenement,
+Thoson triek unshiong better care their broe sheir bad shall paws? Wenforth, as now:
+Kep Dortaing whos man friends was traions!
+
+QUEEN WARD IV:
+The worthump now; therefore down:
+Oft doubtt oncest's decasesy happy
+It it within stroUstned allarge,
+Which follow have
+
+--- Tiny sample 3 ---
+To be or not to be shall them:
+Recharged and; and, but get bittter set
+Think luck here from! Where will de's may neest
+For that have hath disperifiden'd.
+
+WARWICK:
+Fawforrewell,
+'Dweren lews of truntss off Dear,
+Frop Richard scarrow ond and ing, eremening.
+
+Nurse: Match can denamened is me.
+
+QUEEN MARGARET:
+Good my, 
+
+>>>>  Training Small  <<<<
+step 2100 (epoch 4) | train loss 1.7864 ppl 5.97 | val loss 1.8013 ppl 6.06
+=== Small  TEST  loss=1.9339  ppl=6.92 ===
+
+--- Small sample 1 ---
+To be or not to beack;
+For this sring and for a parmille fut of Bolme,
+The gennton! Be my fight not him, the say to be,
+Inver his fallax revold.
+
+KING HARD I:
+I my cals, and vicll to ick pair twe;
+Make, she I mark and may seeed: not and this apleate.
+Sech! I dthe show not, sir, betway that;
+Stains pitill'd the will m
+
+--- Small sample 2 ---
+To be or not to becoud to day! who sildiclant: that it has vind;
+Whenced so parl the eyes of my day:
+Let this to not sill be befour, my of the live yoir
+madon founeds, thou reved will against thy there,
+Than houses my love.
+
+KING RICHARD II:
+Were never of that I stadve not be pration,
+I'll's last, holw him, shall her
+
+--- Small sample 3 ---
+To be or not to beetk in thy niblert;
+Coman'd there shall my to seelp yor hat a as a the chann.
+Warwickes, dem tremasce! Even let it the party:
+In now day the waske the doshlder told of my liear,
+The. are now should he like of them and visclest
+Bus have conful citet ey, by a liff, booyg
+Than the prisons thee dust hal
+
+>>>>  Training Medium  <<<<
+step 2100 (epoch 4) | train loss 1.7238 ppl 5.61 | val loss 1.7843 ppl 5.96
+=== Medium  TEST  loss=1.9169  ppl=6.80 ===
+
+--- Medium sample 1 ---
+To be or not to be mean!
+Where is made bard?
+What, for shall broke be to the cuee.
+O Carew's minke the mory of lhave same fath,
+Disven I there hows's wing with dear abli;
+What nock me on of your of: Chorthone high thor as tear,
+What shat you well. ComeLe my staid?
+Well, here mighter: I'll you know sawell,
+Thre which 
+
+--- Medium sample 2 ---
+To be or not to be mund
+The a breempely armws; lord,
+Say the dearn't fath, so and gry jettents.
+
+DUKE OF YORDTURK:
+And in Less whom for to Romands,
+A I it.
+BRAKENLINCHAM:
+By be that; I mearth, with therefore the my
+onelf they of Edward-stard from what we feetue,
+And Iuld in the this poor?
+
+ROMEO:
+They lad, not gall.
+
+
+--- Medium sample 3 ---
+To be or not to bear lovish;--
+
+ANGELO:
+In you wear blese you shall old so?
+
+AUFIDIUS:
+No, faull go go, I make;
+When I heart, you will courRome beging.
+
+CLIFFFFORD:
+Thy, dong shall he is our mine sunjuch.
+
+FRAF
+HURD:
+No, this not to I joice Edward it,
+Or forbor do Grace?
+
+LEONTES:
+Be an hose
+O parestrace in his poocl
+
+Results:
+Tiny   test_ppl = 6.92
+Small  test_ppl = 6.92
+Medium  test_ppl = 6.80
